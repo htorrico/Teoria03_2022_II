@@ -32,7 +32,7 @@ public class Inicio {
 		
 		System.out.println(Persona.getCantidad());
 		
-		//System.out.println(Hugo.getSueldoNeto());
+		System.out.println(Hugo.getSueldoNeto());
 		
 		
 	
